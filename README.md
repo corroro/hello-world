@@ -1,3 +1,4 @@
 # hello-world
 practice program
-Hi! I'm Macky. I would like to explore programming in github.
+I'm Mark Cezar or Macky for short. I would like to practice coding here in github and make it a hobby.
+
